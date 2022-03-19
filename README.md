@@ -1,5 +1,5 @@
 # Fe-Co-Ni_mag_elec
-Fe-Co-Ni database consisting of magnetic and electrical properties
+Fe-Co-Ni alloy database consisting of magnetic and electrical properties
 
 Magnetic Properties:
   1. **Saturation Induction**: The maximum intrinsic induction possible in a material. Also known as **saturation flux density**. Intrinsic induction is the vector difference
